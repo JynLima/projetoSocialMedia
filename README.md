@@ -1,6 +1,11 @@
 # projetoSocialMedia
  Um projeto mostrando spoilers das minhas redes sociais com botoes para acessar
 
+Versão 0.0.4:
+
+Primeiras configurações no CSS.
+
+
 Versão 0.0.3:
 
 Inserido titulo e favicon.
