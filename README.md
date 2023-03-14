@@ -1,5 +1,10 @@
 # projetoSocialMedia
- Um projeto mostrando spoilers das minhas redes sociais com botoes para acessar
+ Um projeto mostrando spoilers das minhas redes sociais com botoes para acessá-las
+
+Versão 0.0.6:
+
+Inseridos e estilizados os botões para acessar as redes.
+
 
 Versão 0.0.5:
 
